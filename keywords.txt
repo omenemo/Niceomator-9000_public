@@ -1,0 +1,7 @@
+gender, gender (shut up, OR fuck you, OR degenerate, OR biology, OR genes) lang:en -has:links -is:reply
+abortion, "abortion is murder" lang:en -has:links -is:reply
+conspiracy_theories, "wake up" (sheeps, OR nwo, OR "new World Order") -has:links -is:reply
+flat_earth, the earth is flat (wake OR up OR awakening OR people) lang:en -has:links
+islamophobia, "islamic terrorists" (terrorism, OR border, OR patriot, OR islam, OR muslim) lang:en -has:links -is:reply
+white_lives_matter, "white lives matter" ("white race" OR race, OR terrorism, OR work, OR lazy) lang:en -is:reply
+climate_deniers, "climate change is fake" -"how -climate -change -is -fake" -"if -climate -change -is -fake"
